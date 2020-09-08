@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Articals
-- [Option Patterns](https://code-maze.com/aspnet-configuration-options/)
+- [ASP.NET Core – Option Patterns](https://code-maze.com/aspnet-configuration-options/)
+- [ASP.NET Core – Clean Architecture](https://www.codewithmukesh.com/project/aspnet-core-webapi-clean-architecture/)
