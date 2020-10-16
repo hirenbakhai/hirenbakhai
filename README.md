@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Articals
+- [Learning ARM](https://github.com/microsoft/Learning-ARM)
 - [ASP.NET Core – Option Patterns](https://code-maze.com/aspnet-configuration-options/)
 - [ASP.NET Core – Clean Architecture](https://www.codewithmukesh.com/project/aspnet-core-webapi-clean-architecture/)
 - Various connection string formats can be found [here](https://www.connectionstrings.com/)
